@@ -28,7 +28,7 @@
              ["{{name}}/{{name}}.jsproj" (render "my-project/my-project.jsproj" data)]
              ["{{name}}/package.appxmanifest" (render "my-project/package.appxmanifest" data)]
              ["{{name}}/default.html" (render "my-project/default.html" data)]
-             ["{{name}}/js/react-0.11.1.js" (render "my-project/js/react-0.11.1.js" data)]
+             ["{{name}}/js/react.min.js" (render "my-project/js/react.min.js" data)]
              ["{{name}}/js/winstore-closurecompat.js" (render "my-project/js/winstore-closurecompat.js" data)]
              ["{{name}}/js/winstore-jscompat.js" (render "my-project/js/winstore-jscompat.js" data)]
              ["{{name}}/css/default.css" (render "my-project/css/default.css" data)]

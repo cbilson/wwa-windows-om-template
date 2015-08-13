@@ -1,4 +1,4 @@
-(defproject wwa-windows-om/lein-template "0.1.0"
+(defproject wwa-windows-om/lein-template "0.1.1-SNAPSHOT"
   :description "A minimal template for building Windows Store Apps with ClojureScript and Om."
   :url "https://github.com/rigdern/wwa-windows-om-template"
   :license {:name "Eclipse Public License"
